@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A motivated individual with in-depth knowledge of language and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
+
 <!--
 **shivamgarg796/shivamgarg796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
