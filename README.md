@@ -10,8 +10,16 @@
   <a href="https://twitter.com/Shivam_796">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
 
+</div>
+<div>
+  <a href="https://shivamgarg.dev.voyage/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1zA5k8Whaed4mR2Xzgob0_W93pFXLqVXR/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
+  </a>
+</div>
 <img src="https://komarev.com/ghpvc/?username=shivamgarg796&style=flat-square&color=blue" alt=""/>
 <h1 align="center">
   Hey there
