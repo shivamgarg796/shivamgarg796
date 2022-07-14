@@ -13,10 +13,10 @@
 
 </div>
 <div>
-  <a href="https://shivamgarg.dev.voyage/">
+  <a href="https://shivam-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1zA5k8Whaed4mR2Xzgob0_W93pFXLqVXR/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1cIGflTHodUzphFRfvsOJqtYD7WtPuS2a/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
