@@ -4,10 +4,10 @@
 
 <div align="center">
 <div>
-  <a href="https://shivam-one.vercel.app/">
+  <a href="https://portfolio-shivamgarg796.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://shivam-one.vercel.app/resume/Shivam_Maheshwari.pdf">
+  <a href="https://portfolio-shivamgarg796.vercel.app/images/resume-shivam.pdf">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
