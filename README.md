@@ -7,7 +7,7 @@
   <a href="https://portfolio-shivamgarg796.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1JvezDV3ujmx99t0BejZ_gNc8hzNWavF0/view?usp=sharing">
+  <a href="https://portfolio1-shivamgarg796.vercel.app/images/Shivam_Maheshwari_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
